@@ -1,2 +1,1 @@
-# stm32_driver
-this repository is to save some stm32 drivers such as soft iic, soft spi
+this doc is to save some drivers about stm32F1XX, such as soft iic, soft spi.
